@@ -25,11 +25,10 @@ and I have hands-on experience in mobile test automation.
 
 **Projects**
 
-- **[Sign Language Recognition](https://github.com/KULLANICI-ADIN/REPO-ADI)** — real-time sign
-  language recognition from a webcam. My graduation project.
+- **[Sign Language Recognition](https://github.com/OmerFarukEkici/turkish-sign-language-recognition)** — real-time sign language recognition from a webcam. My graduation project.
 
 **Currently**
 
 Open to software engineering roles — backend, web or test automation. Istanbul or remote.
 
-📫 omrfrkekc@gmail.com · [LinkedIn]([https://www.linkedin.com/in/%C3%B6mer-faruk-ekici-760885378/])
+📫 omrfrkekc@gmail.com · [LinkedIn](https://www.linkedin.com/in/ömer-faruk-ekici-760885378/)
