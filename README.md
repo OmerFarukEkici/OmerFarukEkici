@@ -31,4 +31,4 @@ and I have hands-on experience in mobile test automation.
 
 Open to software engineering roles — backend, web or test automation. Istanbul or remote.
 
-📫 omrfrkekc@gmail.com · [LinkedIn](https://www.linkedin.com/in/ömer-faruk-ekici-760885378/)
+📫 omrfrkekc@gmail.com · [LinkedIn](https://www.linkedin.com/in/ömer-faruk-ekici/)
